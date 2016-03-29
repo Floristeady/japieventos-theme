@@ -1,0 +1,896 @@
+# Translation of Simple Steady in Spanish (Spain)
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-06-26 15:22-0600\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.3\n"
+"Project-Id-Version: Twenty Eleven\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Florencia <frosenfeld@gmail.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+
+#: 404.php:12
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Esto es algo embarazoso, ¿verdad?"
+
+#: 404.php:17 404.php:18
+msgid ""
+"It appears the page you are looking for does not exist. Perhaps searching, "
+"or one of the links below, can help."
+msgstr ""
+"Parece que la página que buscas no existe. Puedes usar el buscador, o volver "
+"a la <a href=\"/\">página de inicio.</a>"
+
+#: archive.php:26
+msgid "Daily Archives: %s"
+msgstr "Archivos diarios: %s"
+
+#: archive.php:29
+msgid "Monthly Archives: %s"
+msgstr "Archivos Mensuales: %s"
+
+#: archive.php:29
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:32
+msgid "Yearly Archives: %s"
+msgstr "Archivo Anual: %s"
+
+#: archive.php:32
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:35
+msgid "Archives"
+msgstr "Blog"
+
+#: author.php:31
+msgid "All posts by %s"
+msgstr "Artículos escritos por %s"
+
+#: category.php:17
+msgid "Category Archives: %s"
+msgstr "Artículos de la categoría: %s"
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: content-none.php:18
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Listo para publicar tu primer post? <a href=\"%1$s\">Empezar aquí</a>."
+
+#: content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero nada coincide con los términos de búsqueda. Por favor, "
+"inténtelo de nuevo con algunas palabras clave diferentes."
+
+#: content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"No podemos encontrar lo que estás buscando. Puede intentarlo con el buscador."
+
+#: content-aside.php:17 content-audio.php:17 content-featured-post.php:28
+#: content-gallery.php:17 content-image.php:17 content-link.php:17
+#: content-quote.php:17 content-video.php:17 content.php:19
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ","
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:37 content-quote.php:37
+#: content-video.php:37 content.php:38 inc/widgets.php:180
+msgid "Leave a comment"
+msgstr "Escribir un comentario"
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:37 content-quote.php:37
+#: content-video.php:37 content.php:38 inc/widgets.php:180
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:37 content-quote.php:37
+#: content-video.php:37 content.php:38 inc/widgets.php:180
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: content-aside.php:40 content-audio.php:40 content-gallery.php:40
+#: content-image.php:40 content-link.php:40 content-page.php:28
+#: content-quote.php:40 content-video.php:40 content.php:42 image.php:34
+#: page-templates/contributors.php:35
+msgid "Edit"
+msgstr "Editar"
+
+#: content.php:58 functions.php:193 content-aside.php:46 content-audio.php:46
+#: content-gallery.php:46 content-image.php:46 content-link.php:46
+#: content-quote.php:46 content-video.php:46 inc/widgets.php:113
+#: inc/widgets.php:158
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguir leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:48 content-audio.php:48 content-gallery.php:48
+#: content-image.php:48 content-link.php:48 content-page.php:22
+#: content-quote.php:48 content-video.php:48 content.php:56 image.php:54
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: breadcrumbs.php:2
+msgid "Home"
+msgstr "Inicio"
+
+#: comments.php:17
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Esta entrada está protegida. Introduce la contraseña para ver los "
+"comentarios."
+
+#: comments.php:27
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: comments.php:34 comments.php:52
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:35 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: comments.php:36 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios recientes &rarr;"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: content-aside.php:16 content-featured.php:14 content-gallery.php:16
+#: content-gallery.php:48 content-image.php:15 content-link.php:16
+#: content-quote.php:14 content-status.php:15 content.php:15 content.php:19
+#: inc/widgets.php:89 showcase.php:120 showcase.php:199
+msgid "Permalink to %s"
+msgstr "Enlace permanente a %s"
+
+#: content-aside.php:17
+msgid "Aside"
+msgstr "Minientrada"
+
+#: content-aside.php:22 content-image.php:21 content-link.php:22
+#: content-quote.php:24 content-status.php:21 content.php:30
+msgid "Reply"
+msgstr "Responder"
+
+#: content-aside.php:22 content-image.php:21 content-link.php:22
+#: content-quote.php:24 content-status.php:21 content.php:30
+msgctxt "comments number"
+msgid "1"
+msgstr "1"
+
+#: content-aside.php:22 content-image.php:21 content-link.php:22
+#: content-quote.php:24 content-status.php:21 content.php:30
+msgctxt "comments number"
+msgid "%"
+msgstr "%"
+
+#: content-aside.php:42 content-gallery.php:87 content-image.php:64
+#: content-link.php:42 content-quote.php:69 content-status.php:43
+#: content.php:77 showcase.php:201
+msgid "Leave a reply"
+msgstr "Deja una respuesta"
+
+#: content-aside.php:42 content-gallery.php:87 content-image.php:64
+#: content-link.php:42 content-quote.php:69 content-status.php:43
+#: content.php:77 showcase.php:201
+msgid "<b>1</b> Reply"
+msgstr "<b>1</b> Respuesta"
+
+#: content-aside.php:42 content-gallery.php:87 content-image.php:64
+#: content-link.php:42 content-quote.php:69 content-status.php:43
+#: content.php:77 showcase.php:201
+msgid "<b>%</b> Replies"
+msgstr "<b>%</b> Respuestas"
+
+#: content-featured.php:29 content-featured.php:38 content-gallery.php:62
+#: content-gallery.php:72 content-image.php:47 content-image.php:56
+#: content-quote.php:44 content-quote.php:54 content-single.php:30
+#: content-single.php:33 content.php:51 content.php:61
+msgid ", "
+msgstr ", "
+
+#: content-featured.php:31
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Esta entrada fue publicada en %1$s y etiquetada %2$s. Guarda el <a href="
+"\"%3$s\" title=\"Enlace Permanente a %4$s\" rel=\"bookmark\">enlace "
+"permanente</a>."
+
+#: content-featured.php:33
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Esta entrada fue publicada en %1$s. Guarda el <a href=\"%3$s\" title="
+"\"Enlace permanente a %4$s\" rel=\"bookmark\">enlace permanente</a>."
+
+#: content-gallery.php:17
+msgid "Gallery"
+msgstr "Galería"
+
+#: content-gallery.php:47
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Esta galería contiene <a %1$s>%2$s foto </a>"
+msgstr[1] "Esta galería contiene <a %1$s>%2$s fotos </a>"
+
+#: content-gallery.php:66 content-image.php:51 content-quote.php:48
+#: content.php:55
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Publicado en</span> %2$s"
+
+#: content-gallery.php:78 content-image.php:59 content-quote.php:60
+#: content.php:67
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">Etiquetado</span> %2$s"
+
+#: content-image.php:16
+msgid "Image"
+msgstr "Imagen"
+
+#: content-image.php:34
+msgid ""
+"<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s"
+"\" pubdate>%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by "
+"</span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" "
+"title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+msgstr ""
+"<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s"
+"\" pubdate>%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> "
+"por </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" "
+"title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+
+#: content-image.php:39 functions.php:587
+msgid "View all posts by %s"
+msgstr "Ver todas las entradas de %s"
+
+#: content-link.php:17
+msgid "Link"
+msgstr "Enlace"
+
+#: content-quote.php:15
+msgid "Quote"
+msgstr "Cita"
+
+#: content-single.php:35
+msgid ""
+"This entry was posted in %1$s and tagged %2$s by <a href=\"%6$s\">%5$s</a>. "
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+"Esta entrada fue publicada en %1$s y etiquetada %2$s por <a href=\"%6$s\">"
+"%5$s</a>. Guarda <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">enlace permanente</a>."
+
+#: content-single.php:37
+msgid ""
+"This entry was posted in %1$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a "
+"href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Esta entrada fue publicada en %1$s por <a href=\"%6$s\">%5$s</a>. Guarda el "
+"<a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">enlace "
+"permanente</a>."
+
+#: content-single.php:39
+msgid ""
+"This entry was posted by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href="
+"\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Esta entrada fue publicada por <a href=\"%6$s\">%5$s</a>. Guarda el <a href="
+"\"%3$s\" title=\"Enlace permanente a %4$s\" rel=\"bookmark\">enlace "
+"permanente</a>."
+
+#: content-single.php:64
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Ver todas las entradas por %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-status.php:16
+msgid "Status"
+msgstr "Estado"
+
+#: content.php:16
+msgid "Featured"
+msgstr "Destacado"
+
+#: footer.php:27
+msgid "http://wordpress.org/"
+msgstr "http://es.wordpress.org/"
+
+#: footer.php:27
+msgid "Proudly powered by %s"
+msgstr "Funciona con %s"
+
+#: functions.php:63
+msgid "Primary Navigation"
+msgstr "Menú Principal"
+
+#: functions.php:64
+msgid "Secondary Navigation"
+msgstr "Menú Secundario"
+
+#: functions.php:225
+msgid "Main Sidebar"
+msgstr "Sidebar principal"
+
+#: functions.php:227
+msgid "Main Sidebar Widget"
+msgstr "Sidebar principal para widget"
+
+#: functions.php:236
+msgid "Secondary Sidebar"
+msgstr "Sidebar Secundario"
+
+#: functions.php:238
+msgid "Secondary Sidebar Widget"
+msgstr "Sidebar secundario para widget"
+
+#: functions.php:247
+msgid "Footer Widget Area"
+msgstr "Primer Área del Footer"
+
+#: functions.php:246 functions.php:260 functions.php:271 functions.php:282
+msgid "An optional widget area for your site footer"
+msgstr "Área para widget en el footer del sitio"
+
+#: functions.php:258
+msgid "Second Footer Widget Area"
+msgstr "Segunda Área del Footer"
+
+#: functions.php:269
+msgid "Third Footer Widget Area"
+msgstr "Tercera Área del Footer"
+
+#: functions.php:280
+msgid "Fourth Footer Widget Area"
+msgstr "Cuarta Área del Footer"
+
+#: header.php:87
+msgid "Skip to content"
+msgstr "Ir al contenido principal"
+
+#: theme-admin/theme-options.php:55 inc/theme-options.php:474
+msgid "Color Scheme"
+msgstr "Combinación de colores"
+
+#: theme-admin/theme-options.php:61 inc/theme-options.php:491
+msgid "Link Color"
+msgstr "Color de los enlaces"
+
+#: theme-admin/theme-options.php:62
+msgid "Default Layout"
+msgstr "Diseño por defecto"
+
+#: theme-admin/theme-options.php:94 inc/theme-options.php:95
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: theme-admin/theme-options.php:110
+msgid ""
+"Some themes provide customization options that are grouped together on a "
+"Theme Options screen. If you change themes, options may change or disappear, "
+"as they are theme-specific. Your current theme, Twenty Eleven, provides the "
+"following Theme Options:"
+msgstr ""
+"Algunos temas ofrecen opciones de personalización que se agrupan en una "
+"pantalla de Opciones del tema. Si cambias los temas, las opciones pueden "
+"cambiar o desaparecer, ya que pertenecen a un tema específico. El tema "
+"actual, Twenty Eleven, ofrece las siguientes opciones:"
+
+#: theme-admin/theme-options.php:112
+msgid ""
+"<strong>Color Scheme</strong>: You can choose a color palette of \"Light"
+"\" (light background with dark text) or \"Dark\" (dark background with light "
+"text) for your site."
+msgstr ""
+"<strong>Combinación de colores</strong>: Puedes elegir una paleta de colores "
+"para \"Light\" (fondo blanco y texto oscuro) o \"Dark\" (fondo oscuro y "
+"texto claro) para su sitio."
+
+#: theme-admin/theme-options.php:113
+msgid ""
+"<strong>Link Color</strong>: You can choose the color used for text links on "
+"your site. You can enter the HTML color or hex code, or you can choose "
+"visually by clicking the \"Select a Color\" button to pick from a color "
+"wheel."
+msgstr ""
+"<strong>Color de enlace</strong>: Puedes elegir el color que se utiliza para "
+"los enlaces en el texto de su sitio. Puedes introducir el código de color "
+"HTML en hexadecimal, o puedes elegirlo visualmente haciendo clic en "
+"\"Seleccionar un color\" para elegir de la rueda de color."
+
+#: theme-admin/theme-options.php:114
+msgid ""
+"<strong>Default Layout</strong>: You can choose if you want your site&#8217;"
+"s default layout to have a sidebar on the left, the right, or not at all."
+msgstr ""
+"<strong>Diseño por defecto</strong>: Puedes elegir si deseas que el diseño "
+"de tu sitio web por defecto tenga una barra lateral a la izquierda, a la "
+"derecha, o que no tenga barra lateral."
+
+#: theme-admin/theme-options.php:116
+msgid ""
+"Remember to click \"Save Changes\" to save any changes you have made to the "
+"theme options."
+msgstr ""
+"Recuerde hacer clic en \"Guardar cambios\" para guardar los cambios "
+"realizados a las opciones del tema."
+
+#: theme-admin/theme-options.php:118
+msgid "For more information:"
+msgstr "Para más información:"
+
+#: theme-admin/theme-options.php:119
+msgid ""
+"<a href=\"http://codex.wordpress.org/Appearance_Theme_Options_Screen\" "
+"target=\"_blank\">Documentation on Theme Options</a>"
+msgstr ""
+"<a href=\"http://codex.wordpress.org/Appearance_Theme_Options_Screen\" "
+"target=\"_blank\">Documentación de Opciones del Tema</a>"
+
+#: theme-admin/theme-options.php:120
+msgid ""
+"<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forums</"
+"a>"
+msgstr ""
+"<a href=\"http://es.forums.wordpress.org/\" target=\"_blank\">Foros de "
+"soporte</a>"
+
+#: theme-admin/theme-options.php:127
+msgid "Overview"
+msgstr "Información general"
+
+#: theme-admin/theme-options.php:149
+msgid "Light"
+msgstr "Claro"
+
+#: theme-admin/theme-options.php:155
+msgid "Dark"
+msgstr "Oscuro"
+
+#: theme-admin/theme-options.php:173
+msgid "Content on left"
+msgstr "Contenido a la izquierda"
+
+#: theme-admin/theme-options.php:178
+msgid "Content on right"
+msgstr "Contenido a la derecha"
+
+#: theme-admin/theme-options.php:183
+msgid "One-column, no sidebar"
+msgstr "Una columna, sin barra lateral"
+
+#: theme-admin/theme-options.php:273 theme-options.php:73
+msgid "Select a Color"
+msgstr "Selecciona un color"
+
+#: theme-admin/theme-options.php:276
+msgid "Default color: %s"
+msgstr "Color por defecto: %s"
+
+#: theme-admin/theme-options.php:312
+msgid "%s Theme Options"
+msgstr "Opciones del tema %s"
+
+#: theme-admin/theme-options.php:498
+msgid "Layout"
+msgstr "Diseño"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Resultados para: %s"
+
+#: search.php:46
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero nada coincide con tus búsqueda. Por favor, prueba de nuevo "
+"con diferentes palabras clave."
+
+#: functions.php:432 functions.php:433
+msgid "Search for:"
+msgstr "Buscar"
+
+#: single.php:19
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Anterior"
+
+#: single.php:20
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Siguiente <span class=\"meta-nav\">&rarr;</span>"
+
+#: tag.php:19
+msgid "Tag Archives: %s"
+msgstr "Archivo de la etiqueta: %s"
+
+msgid "the WordPress team"
+msgstr "el equipo de WordPress"
+
+#: general-options.php:35
+msgid "General options for"
+msgstr "Opciones Generales para"
+
+#: general-options.php:36
+msgid ""
+"This is the web site manager. Select the options you want to include on the "
+"website."
+msgstr ""
+"Este es el administrador del sitio web. Elige las opciones que quieres "
+"incluir en el sitio web."
+
+#: functions.php:393
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr "Esta entrada es de la categoria %1$s y tiene la etiqueta %2$s. "
+
+#: functions.php:395
+msgid "This entry was posted in %1$s."
+msgstr "Esta entrada es de la categoria %1$s."
+
+#: functions.php:397
+msgid "Bookmark the <a href=\"%3$s\">permalink</a>."
+msgstr "Este es el <a href=\"%3$s\">enlace</a>."
+
+#: theme-options.php:37
+msgid "Extra Options"
+msgstr "Opciones Extras"
+
+#: theme-options.php:69
+msgid "Custom Link Color"
+msgstr "Color de los vínculos"
+
+#: theme-options.php:76
+msgid "e.g. #0000FF or blue (default link color: #009BC2)"
+msgstr "Ejemplo #0000FF o blue (color predeterminado: #009BC2)"
+
+#: theme-options.php:80
+msgid "Custom Logo Image URL"
+msgstr "URL imagen logotipo"
+
+#: theme-options.php:83
+msgid "Upload your own logo image"
+msgstr "Sube tu propio logotipo"
+
+#: theme-options.php:83
+msgid " using the WordPress Media Library and insert the URL here"
+msgstr " desde la librería Multimedia de Wordpress y pega la URL aquí"
+
+#: general-options.php:24
+msgid "General Options"
+msgstr "Opciones Generales"
+
+#: general-options.php:243 general-options.php:255 general-options.php:259
+msgid ""
+"<p>Selecting this option will add the following code to your pages just "
+"before the: <code>&lt;/body&gt;</code></p>"
+msgstr ""
+"<p>Selecciona esta opción y el siguiente código se incluirá justo antes de: "
+"<code>&lt;/body&gt;</code></p>"
+
+#: general-options.php:124 general-options.php:153 general-options.php:179
+#: general-options.php:166
+msgid ""
+"<p>Selecting this option will add the following code to the <code>&lt;"
+"head&gt;</code> of your pages:</p>"
+msgstr ""
+"<p>Selecciona esta opción y el siguiente código se incluirá en el <code>&lt;"
+"head&gt;</code> de las páginas del sitio.</p>"
+
+#: general-options.php:126
+msgid ""
+"<p>Add <a href=\"https://support.google.com/webmasters/answer/35179\">Google "
+"Verification</a> code and <a href=\"https://www.google.com/analytics"
+"\">Google Universal Analytics </a> code to the <code>&lt;head&gt;</code> of "
+"all your pages.</p>"
+msgstr ""
+"<p>Añade el código de <a href=\"https://support.google.com/webmasters/"
+"answer/35179\"> verificación de Google</a> y de <a href=\"https://www.google."
+"com/analytics\">Google Universal Analytics</a> antes de <code>&lt;head&gt;</"
+"code> de las páginas del sitio.</p>"
+
+#: general-options.php:127
+msgid ""
+"<p>To include Google Analytics and Google Verification code, select this "
+"option and add your Verification number here and the site domain:</p>"
+msgstr ""
+"<p>Para incluir Google Analytics y Google código de verificación, seleccione "
+"esta opción e introduzca su número de verificación aquí y el dominio del "
+"sitio:</p>"
+
+#: general-options.php:128
+msgid "<p>Google Analytics ID: </p>"
+msgstr "<p>Identificador Google Analytics:</p>"
+
+#: general-options.php:133
+msgid "<p>Site Domain: </p>"
+msgstr "<p>Dominio del sitio: </p>"
+
+#: general-options.php:131
+msgid ""
+"<p>This will add the following code to the <code>&lt;head&gt;</code> of your "
+"pages, where <code>XXXXXXXXX?</code> will be replaced with the code you "
+"insert above.</p><br/>"
+msgstr ""
+"<p>Selecciona esta opción para añadir el código antes de<code>&lt;head&gt;</"
+"code> de tus páginas, donde <code>XXXXXXXXX?</code> será reemplazado por el "
+"código que escribas:</p>"
+
+#: general-options.php:136
+msgid ""
+"<p>And will add the latest version of the Analytics tracking code, to track "
+"website visitors with Google Analytics.</p>"
+msgstr ""
+"<p>Se agregará la última versión del código de Analytics, para tener las "
+"estadísticas de las visitas con Google Analytics.</p>"
+
+#: general-options.php:153
+msgid ""
+"<p>Force <em><abbr title=\"iPhone, iTouch, iPad...\">iThings</abbr></em> to "
+"<a href=\"http://developer.apple.com/library/safari/#documentation/"
+"AppleApplications/Reference/SafariWebContent/UsingtheViewport/"
+"UsingtheViewport.html#//apple_ref/doc/uid/TP40006509-SW19\">show site at "
+"full-zoom</a>, instead of trying to show the entire page.</p>"
+msgstr ""
+"<p>Forzar <em><abbr title=\"iPhone, iTouch, iPad…\">iThings</abbr></em> para "
+"<a href=\"http://developer.apple.com/library/safari/#documentation/"
+"AppleApplications/Reference/SafariWebContent/UsingtheViewport/"
+"UsingtheViewport.html#//apple_ref/doc/uid/TP40006509-SW19\">mostrar el sitio "
+"con zoom</a>, en lugar de tratar de mostrar la página completa."
+
+#: general-options.php:289
+msgid ""
+"<p>Add meta keywords tags for SEO, write your keywords separated by a comma, "
+"but not a space.</p>"
+msgstr ""
+"<p>Agregar las etiquetas o palabras claves para el SEO, escribe las palabras "
+"clave separadas por una coma pero sin espacios.</p>"
+
+#: general-options.php:147
+msgid ""
+"<p>Selecting this option will add the following code to the <code>&lt;"
+"head&gt;</code> of your pages, where </code>tags...</code> will be replaced "
+"with the code you insert above</p>"
+msgstr ""
+"<p>Seleccionando esta opción se incluirá el código antes de <code>&lt;"
+"head&gt;</code>, donde <code>tags…</code> se reemplazará por el código que "
+"escribas:</p>"
+
+#: general-options.php:165
+msgid ""
+"<p>If you plan to use a <a href=\"http://en.wikipedia.org/wiki/Favicon"
+"\">favicon</a> for your site, place the \"favicon.ico\" file in the root "
+"directory of your site.</p>"
+msgstr ""
+"<p>Si quieres usar <a href=\"http://en.wikipedia.org/wiki/Favicon\">favicon</"
+"a> para tu sitio web, añade el  archivo del \"favicon.ico\" en el directorio "
+"raíz de tu sitio.</p>"
+
+#: general-options.php:166 general-options.php:179
+msgid ""
+"<p>If the file is in the right location, you don't really need to select "
+"this option, browsers will automatically look there and no additional code "
+"will be added to your pages.</p>"
+msgstr ""
+"<p>Si el archivo esta en la carpeta correcta, tu no tienes que seleccionar "
+"esta opción, los navegadores lo encontrarán automáticamente, y no se "
+"añadirán códigos adicionales en tus páginas.</p>"
+
+#: general-options.php:178
+msgid ""
+"<p>To allow <em>iThing(iPhone, iTouch, iPad...)</em> users to <a href="
+"\"http://developer.apple.com/library/safari/#documentation/AppleApplications/"
+"Reference/SafariWebContent/ConfiguringWebApplications/"
+"ConfiguringWebApplications.html\">add an icon for your site to their Home "
+"screen</a>, place the \"apple-touch-icon.png\" file in the root directory of "
+"your site.</p>"
+msgstr ""
+"<p>Permite que usuarios de <em>iThing (iPhone, iTouch, iPad…)</em> <a href="
+"\"http://developer.apple.com/library/safari/#documentation/AppleApplications/"
+"Reference/SafariWebContent/ConfiguringWebApplications/"
+"ConfiguringWebApplications.html\">añadir un icono de tu sitio web en su "
+"Pantalla de inicio</a>, coloca el archivo \"apple-touch-icon.png\" en el "
+"directorio raíz de tu sitio.</p>"
+
+#: general-options.php:194
+msgid ""
+"<p><a href=\"http://modernizr.com\">Modernizr</a> is a JS library that "
+"appends classes to the <code>&lt;html&gt;</code> that indicate whether the "
+"user's browser is capable of handling advanced CSS, like \"cssreflections\" "
+"or \"no-cssreflections\".  It's a really handy way to apply varying CSS "
+"techniques, depending on the user's browser's abilities, without resorting "
+"to CSS hacks.</p>"
+msgstr ""
+"<p><a href=\"http://modernizr.com\">Modernizr</a> es una librería de JS que "
+"añade etiquetas en el código <code>&lt;html&gt;</code> que indica que tu "
+"navegador es compatible para que funcione CSS3, como  \"cssreflections\" or "
+"\"no-cssreflections\". Es funcional porque te permite añadir varias técnicas "
+"de CSS, sin usar hacks de CSS. </p>"
+
+#: general-options.php:195 general-options.php:212
+msgid ""
+"<p>Selecting this option will add the following code to the <code>&lt;"
+"head&gt;</code> of your pages (note the lack of a version, when you're ready "
+"to upgrade, simply copy and paste the new version into the file below, and "
+"your site is ready to go!):</p>"
+msgstr ""
+"<p>Selecciona esta opción, se añadirá el siguiente código en el <code>&lt;"
+"head&gt;</code> de las páginas (nota cuando exista una nueva versión y "
+"quiera actualizar, sólo copie y pegue la nueva versión en el archivo, y tu "
+"sitio funcionará!):</p>"
+
+#: general-options.php:197
+msgid ""
+"<p><strong>Note: If you do <em>not</em> include Modernizr, the IEShiv JS "
+"<em>will</em> be added to accommodate the HTML5 elements used in Boilerplate "
+"in weaker browsers:</strong></p>"
+msgstr ""
+"<p><strong>Nota: Si <em>no</em> incluyes Modernizr, IEShiv JS <em>se "
+"añadirá</em> para que funcionen los elementos HTML5 usados en Boilerplate "
+"para navegadores con menos compatibilidad:</strong></p>"
+
+#: general-options.php:211
+msgid ""
+"<p><a href=\"http://filamentgroup.com/lab/"
+"respondjs_fast_css3_media_queries_for_internet_explorer_6_8_and_more/"
+"\">Respond.js</a> is a JS library that helps IE (8 or less) understand "
+"<code>@media</code> queries, specifically <code>min-width</code> and "
+"<code>max-width</code>, allowing you to more reliably implement <a href="
+"\"http://www.alistapart.com/articles/responsive-web-design/\">responsive "
+"design</a> across all browsers.</p>"
+msgstr ""
+"<p><a href=\"http://filamentgroup.com/lab/"
+"respondjs_fast_css3_media_queries_for_internet_explorer_6_8_and_more/"
+"\">Respond.js</a> es una libreria de JS que ayuda a IE (8 o versión "
+"anterior) entienda <code>@media</code> queries, especificamente <code>min-"
+"width</code> y <code>max-width</code>, lo que permite implementar de forma "
+"más confiable <a href=\"http://www.alistapart.com/articles/responsive-web-"
+"design/\">responsive design</a> en todos los navegadores.</p>"
+
+#: general-options.php:225
+msgid ""
+"<p><a href=\"http://jquery.com/\">jQuery</a> is a JS library that aids "
+"greatly in developing high-quality JavaScript quickly and efficiently.</p>"
+msgstr ""
+"<p><a href=\"http://jquery.com/\">jQuery</a> es una librería de JS que ayuda "
+"a programar de forma rápida y eficiente JavaScript.</p>"
+
+#: general-options.php:130
+msgid ""
+"<p><strong>Note: <a href=\"http://developer.yahoo.com/blogs/ydn/"
+"posts/2007/07/high_performanc_5/\">Best-practices</a> recommend that you "
+"load JS as close to the <code>&lt;/body&gt;</code> as possible.  If for some "
+"reason you would prefer jQuery and jQuery plug-ins to be in the <code>&lt;"
+"head&gt;</code>, please select this option.</strong></p>"
+msgstr ""
+"<p><strong>Nota: Como <a href=\"http://developer.yahoo.com/blogs/ydn/"
+"posts/2007/07/high_performanc_5/\">buenas prácticas</a> recomendamos que "
+"añadas los códigos JS cerca del cierre del <code>&lt;/body&gt;</code>. Si "
+"por alguna razón prefieres que los archivos jQuery y plugins de jQuery estén "
+"en el  <code>&lt;head&gt;</code>, por favor selecciona esta opción.</"
+"strong></p>"
+
+#: general-options.php:131
+msgid ""
+"<p>The above code first tries to download jQuery from Google's CDN (which "
+"might be available via the user's browser cache).  If this is not "
+"successful, it uses the theme's version.</p>"
+msgstr ""
+"<p>Este código primero utilizará la versión de jQuery de CDN de Google. Si "
+"esto no es posible, usará la versión del theme.</p>"
+
+#: general-options.php:132
+msgid ""
+"<p><strong>Note: This plug-in tries to keep current with the most recent "
+"version of jQuery.  If for some reason you would prefer to use another "
+"version, please indicate that version:</strong></p><br/>"
+msgstr ""
+"<p><strong>Nota: Este plug-in trata de mantener la última versión de jQuery. "
+"Si por alguna razón prefieres otra versión, por favor escríbela a "
+"continuación.</strong></p><br/>"
+
+#: general-options.php:243
+msgid ""
+"<p>If you choose to use any <a href=\"http://plugins.jquery.com/\">jQuery "
+"plug-ins</a>, I recommend downloading and concatenating them together in a "
+"single JS file, as below.  This will <a href=\"http://developer.yahoo.com/"
+"performance/rules.html\">reduce your site's HTTP Requests</a>, making your "
+"site a better experience.</p>"
+msgstr ""
+"<p>Si quieres añadir un <a href=\"http://plugins.jquery.com/\">jQuery plug-"
+"ins</a>, te recomendamos descargarlos y agregarlos juntos en un sólo archivo "
+"JS. Esto <a href=\"http://developer.yahoo.com/performance/rules.html\"> "
+"reducirá los HTTP Requests de tu sitio</a>, mejorando la experiencia.</p>"
+
+#: general-options.php:146
+msgid ""
+"<p><strong>Note: If you do <em>not</em> include jQuery, this file will "
+"<em>not</em> be added to the page.</strong></p>"
+msgstr ""
+"<p><strong>Nota: Si <em>no</em> añades jQuery, este archivo <em>no</em> se "
+"incluirá en las páginas.</strong></p>"
+
+#: general-options.php:156
+msgid ""
+"<p>If you would like to add your own site JavaScript file, we provides a "
+"starter file located in:</p>"
+msgstr ""
+"<p>Si quieres añadir tu propio archivo Javascript, hay un archive ubicado en:"
+"</p>"
+
+#: general-options.php:158
+msgid "<p>Add what you want to that file and select this option.</p>"
+msgstr ""
+"<p>Añade el código que quieras en ese archivo y selecciona esta opción.</p>"
+
+#: general-options.php:171
+msgid ""
+"<p>To force browsers to fetch a new version of a file, versus one it might "
+"already have cached, you can add a \"cache buster\" to the end of your CSS "
+"and JS files.</p>"
+msgstr ""
+"<p>Para forzar a los navegadores a actualizar una nueva versión de los "
+"archivos, en vez de los que tienen en caché, puedes añadir \"cache buster\" "
+"al final de los archives CSS y JS.</p>"
+
+#: general-options.php:172
+msgid ""
+"To increment the cache buster version number, type something here:<br />"
+msgstr "Para cambiar la versión del caché (cache buster), escribe aquí:<br />"
+
+#: general-options.php:174
+msgid ""
+"<p>Selecting this option will add the following code to the end of all of "
+"your CSS and JS file names on all of your pages:</p>"
+msgstr ""
+"<p>Seleccionando esta opción se añadirá el siguiente código después de todos "
+"los archivos CSS y JS en tus páginas:</p>"
+
+#: functions.php:270
+msgid "Products Column"
+msgstr "Columna en productos"
+
+#: functions.php:272
+msgid "Sidebar for products"
+msgstr "Columna lateral en productos"
+
+#: functions.php:547
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">Artículo Anterior</span>%title"
+
+#: functions.php:548
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">Siguiente Artículo</span>%title"
+
+#: functions.php:504
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: functions.php:505
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
