@@ -40,8 +40,6 @@
 ?>
 	</head>
 	
-	
-
 	<body <?php body_class(); ?>>
 
 		<div class="clearfix" id="page">
@@ -53,15 +51,26 @@
 		
 				<div id="top">
 					<div class="row">
+						
+						<nav id="menu-mobile" class="show-for-small-only">
+		                 	<a class="open" href="javascript:void(0)">MENÚ</a>
+		                 	
+		                  	<?php  wp_nav_menu( array( 'container_id' => 'menu-four', 'theme_location' => 'four', 'sort_column' => 'menu_order' ) ); ?>
+		              	</nav>
+		              	
+		              	<a class="booking" href="http://eventos.japijane.cl/reservas/" title="reservas">Reservas</a>
+						
+						<nav id="nav-2">
+						 <?php  wp_nav_menu( array( 'container_id' => 'menu-secondary', 'theme_location' => 'secondary', 'sort_column' => 'menu_order' ) ); ?>
+						</nav>
+						
 						<ul id="social">
 			                <li class="face"><a target="_blank" href="http://facebook.com/japijane">Facebook</a></li>
 			                <li class="tw"><a target="_blank" href="http://twitter.com/japijane">Twitter</a></li>
 			                <li class="ins"><a target="_blank" href="http://instagram.com/japijane">Instagram</a></li>
-			                <li class="yt"><a target="_blank" href="http://www.youtube.com/user/japijane/videos">Youtube</a></li>
+			                <li class="youtube"><a target="_blank" href="http://www.youtube.com/user/japijane/videos">Youtube</a></li>
 			             </ul>
-						<nav id="nav-2">
-						 <?php  wp_nav_menu( array( 'container_id' => 'menu-secondary', 'theme_location' => 'secondary', 'sort_column' => 'menu_order' ) ); ?>
-						</nav>
+						
 					</div>
 				</div>
 				
@@ -76,8 +85,6 @@
 					</h1>
 				    <?php endif; ?>
 					
-					<a class="open" href="javascript:void(0)"><span></span>MENU</a>
-					
 					<nav id="access" role="navigation" class="">
 						<a class="screen-reader-text skip-link" href="#content"><?php _e( 'Skip to content', 'japieventos' ); ?></a>
 						<?php wp_nav_menu( array( 'container_class' => 'menu-header', 'theme_location' => 'primary' ) ); ?>
@@ -87,7 +94,6 @@
 				
 				<div id="bottom">
 					<div class="row">
-						<p class="show-for-large-up">Nuestros Eventos:</p>
 						<?php wp_nav_menu( array( 'walker' => new description_walker(), 'menu_class' => 'navigation','container' => false, 'theme_location' => 'third' ) ); 
 						
 						?>

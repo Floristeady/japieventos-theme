@@ -61,7 +61,7 @@ jQuery(function ($) {
 	function menumobile() {
 		$('.open')
 	      .bind('click focus', function(){
-	        $('#access').slideToggle();
+	        $('#menu-four').slideToggle();
 	        $('.open').toggleClass('active');
 	        return;
 	        console.log('error');
@@ -69,7 +69,7 @@ jQuery(function ($) {
 	   
 	   $('.close')
 	      .bind('click focus', function(){
-	        $('#access').slideToggle();
+	        $('#menu-four').slideToggle();
 	        $('.open').toggleClass('active');
 	        return;
 	    }); 

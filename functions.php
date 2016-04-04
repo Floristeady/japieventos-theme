@@ -62,6 +62,7 @@ function japieventos_setup() {
 		'primary' => __( 'Navegación Principal', 'japieventos' ),
 		'secondary' => __( 'Navegación Secundaria', 'japieventos' ),
 		'third' => __( 'Navegación Páginas', 'japieventos' ),
+		'four' => __( 'Navegación Móvil', 'japieventos' ),
 	) );
 	
 	/*
@@ -282,7 +283,7 @@ function japieventos_font_url() {
 	 * by the Font, translate this to 'off'. Do not translate into your own language.
 	 */
 	if ( 'off' !== _x( 'on', 'Font font: on or off', 'japieventos' ) ) {
-		$font_url = add_query_arg( 'family', 'Arvo:400,700|Oxygen:400,700', "//fonts.googleapis.com/css" );
+		$font_url = add_query_arg( 'family', 'Arvo:400,700|Lato:400,700', "//fonts.googleapis.com/css" );
 
 	}
 	//Lato:300,400,700,300italic,400italic,700italic
@@ -404,12 +405,11 @@ endif;
  * @since japieventos 1.0
  */
 	function japieventos_search_form ( $form ) {
-		$form = '<form role="search" method="get" id="searchform" action="' . home_url( '/' ) . '" >
-		<div><label class="screen-reader-text" for="s">' . __('Search for:', 'japieventos') . '</label>
+		$form = '<form role="search" method="get" id="searchform" action="' . home_url( '/' ) . '" ><div class="search">
 		<input type="search" placeholder="'. __('Search for:', 'japieventos'). '" value="' . get_search_query() . '" name="s" id="s" />
 		<input type="submit" class="hide" id="searchsubmit" value="'. esc_attr__('Search') .'" />
-		</div>
-		</form>';
+		<span class="icon-search"></span>
+		</div></form>';
 		return $form;
 	}
 	add_filter( 'get_search_form', 'japieventos_search_form' );

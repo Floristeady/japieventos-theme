@@ -23,7 +23,7 @@
 ?>
 
 <?php if ( is_active_sidebar( 'first-footer-widget-area' ) ) : ?>
-					<ul class="widget-list widget-footer column-footer medium-4 column">
+					<ul class="first-widget widget-list widget-footer column-footer medium-4 column">
 						<?php dynamic_sidebar( 'first-footer-widget-area' ); ?>
 					</ul>
 <?php endif; ?>

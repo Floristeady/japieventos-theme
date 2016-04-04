@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="57px" height="25px" viewBox="0 0 57 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 1 Copy 3 + Rectangle 1 Copy 3 + Rectangle 1 + Rectangle 1 Copy + Rectangle 1 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Rectangle-1-Copy-3-+-Rectangle-1-Copy-3-+-Rectangle-1-+-Rectangle-1-Copy-+-Rectangle-1-Copy-2" sketch:type="MSLayerGroup" fill="#FFFFFF">
+            <g id="Rectangle-1-Copy-3-+-Rectangle-1-Copy-3" transform="translate(36.182373, 2.000000)" sketch:type="MSShapeGroup">
+                <path d="M2.17612123,0.909657339 C2.56463119,0.521147384 3.19308444,0.51970154 3.58764128,0.914258384 L20.2337432,17.5603603 C20.6247942,17.9514113 20.6321424,18.5780821 20.2383442,18.9718803 L19.1198818,20.0903427 C18.7313719,20.4788526 18.1021613,20.4795411 17.7099864,20.0873662 C17.7099864,20.0873662 14.8352502,17.21263 13.2956335,15.6730133 L1.0653765,3.44275633 C0.672604218,3.04998404 0.663860698,2.42191787 1.05765887,2.0281197 L2.17612123,0.909657339 Z" id="Rectangle-1-Copy-3"></path>
+                <path d="M2.17612123,0.909657339 C2.56463119,0.521147384 3.19308444,0.51970154 3.58764128,0.914258384 L20.2337432,17.5603603 C20.6247942,17.9514113 20.6321424,18.5780821 20.2383442,18.9718803 L19.1198818,20.0903427 C18.7313719,20.4788526 18.1021613,20.4795411 17.7099864,20.0873662 C17.7099864,20.0873662 14.8352502,17.21263 13.2956335,15.6730133 L1.0653765,3.44275633 C0.672604218,3.04998404 0.663860698,2.42191787 1.05765887,2.0281197 L2.17612123,0.909657339 Z" id="Rectangle-1-Copy-4" transform="translate(10.648299, 10.499803) rotate(-90.000000) translate(-10.648299, -10.499803) "></path>
+            </g>
+            <g id="Rectangle-1-+-Rectangle-1-Copy-+-Rectangle-1-Copy-2" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-1" x="0" y="0" width="25.5438407" height="3.57142857" rx="1"></rect>
+                <rect id="Rectangle-1-Copy" x="0" y="10.7142857" width="25.5438407" height="3.57142857" rx="1"></rect>
+                <rect id="Rectangle-1-Copy-2" x="0" y="21.4285714" width="25.5438407" height="3.57142857" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
